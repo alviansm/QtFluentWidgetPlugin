@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/credit-card.png</file>
+        <file>icons/message_bar-danger.png</file>
+        <file>icons/message_bar-info.png</file>
+        <file>icons/message_bar-success.png</file>
+        <file>icons/message_bar-warning.png</file>
+        <file>icons/Dismiss.png</file>
+        <file>icons/arrow-down.png</file>
+        <file>icons/arrow-left.png</file>
+        <file>icons/arrow-right.png</file>
+        <file>icons/arrow-up.png</file>
+        <file>icons/dismiss.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/more-horizontal.png</file>
+        <file>icons/placeholder.png</file>
+        <file>widget_icons/icon-button-widget.png</file>
+        <file>widget_icons/icon-card-widget.png</file>
+        <file>widget_icons/icon-card_list-widget.png</file>
+        <file>widget_icons/icon-drawer-widget.png</file>
+        <file>widget_icons/icon-graph-widget.png</file>
+        <file>widget_icons/icon-message_bar-widget.png</file>
+        <file>widget_icons/icon-modal-widget.png</file>
+        <file>widget_icons/icon-plain-frame-widget.png</file>
+    </qresource>
+</RCC>
