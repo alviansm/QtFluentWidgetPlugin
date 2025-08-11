@@ -9,9 +9,8 @@
 #include <QPainter>
 #include <QStyleOption>
 #include <QColor>
-#include <QDesignerExportWidget>
 
-class QDESIGNER_WIDGET_EXPORT FluentPlainCardWidget : public QWidget
+class FluentPlainCardWidget : public QWidget
 {
     Q_OBJECT
     Q_PROPERTY(bool enableHover READ isHoverEnabled WRITE setHoverEnabled)

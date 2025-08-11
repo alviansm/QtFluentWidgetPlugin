@@ -13,7 +13,7 @@ HEADERS     = src/plugin/fluentwidgetsplugin.h \
               src/plugin/fluentgraphcardwidgetplugin.h \
               src/plugin/fluentmodalwidgetplugin.h \
               src/plugin/fluentplaincardcontainerextension.h \
-              src/plugin/fluentplaincardwidgetplugin.h \
+              src/plugin/fluentplaincardwidgetplugin.h
               # Future plugins:
               # src/plugin/fluentmetricwidgetplugin.h \
 
